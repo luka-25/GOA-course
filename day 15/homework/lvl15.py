@@ -1,0 +1,7 @@
+usertext = input("please enter ur text: ")
+upper_text = usertext.upper()
+lower_text = usertext.lower()
+capitalize_text = usertext.capitalize()
+print(upper_text)
+print(lower_text)
+print(capitalize_text)
