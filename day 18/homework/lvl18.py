@@ -1,0 +1,7 @@
+# append()
+# clear()
+# count()
+# extend()
+# pop()
+# remove()
+# sort()
